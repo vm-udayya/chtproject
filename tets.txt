@@ -1,1 +1,12 @@
-This is teh test file for the repso
+This is the test file for the repso
+
+I am writing this file for the new program skills in the GIT
+
+Good Luck 
+Edited using the open -a eclipse 
+Closing
+
+Testing again to update the file
+editing again fr git diff
+
+another edit for the ne check
